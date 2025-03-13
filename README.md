@@ -118,3 +118,6 @@ This project is based on the approach presented in the paper "NERCat: Fine-Tunin
 ## 🤝 Contributing
 For any questions, suggestions, or contributions, feel free to open an issue or submit a pull request on this repository. You can also send a e-mail to: ugiat@ugiat.com
 
+## Join Our Community on Discord 🚀
+[![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?label=Discord&logo=discord&color=blue)](https://discord.gg/YaghXngv)
+
