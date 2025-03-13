@@ -110,6 +110,11 @@ This project is based on the approach presented in the paper "NERCat: Fine-Tunin
 }
 ```
 
+## 🙏 Acknowledgements
+
+- [GLiNER original authors](https://github.com/urchade/GLiNER)
+- [Knowledgator original authors]((https://github.com/Knowledgator))
+
 ## 🤝 Contributing
 For any questions, suggestions, or contributions, feel free to open an issue or submit a pull request on this repository.
 
