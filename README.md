@@ -38,7 +38,7 @@ from gliner import GLiNER
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # Load the pre-trained NERCat model and tokenizer
-model = GLiNER.from_pretrained("ugiat/NERCat", load_tokenizer=True).to(device)
+model = GLiNER.from_pretrained("ugiat/NERCat").to(device)
 
 # Input text for Named Entity Recognition (NER)
 text = "La Universitat de Barcelona és una de les institucions educatives més importants de Catalunya."
@@ -103,7 +103,7 @@ This project is based on the approach presented in the paper "NERCat: Fine-Tunin
 ```
 @misc{article_id,
   title        = {NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan},
-  author       = {Marc Bardeli Gámez, Marc Serrano Sanz, Guillem Cadevall Ferreres, Pol Gerdt, Raul Quijada Ferrero, Francesc Tarres},
+  author       = {Guillem Cadevall Ferreres, Marc Bardeli Gámez, Marc Serrano Sanz, Pol Gerdt Basuillas, Francesc Tarres Ruiz, Raul Quijada Ferrero},
   year         = {2025},
   archivePrefix = {arXiv},
   url          = {URL_of_the_paper}
