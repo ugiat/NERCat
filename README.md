@@ -116,5 +116,5 @@ This project is based on the approach presented in the paper "NERCat: Fine-Tunin
 - [Knowledgator original authors](https://github.com/Knowledgator)
 
 ## 🤝 Contributing
-For any questions, suggestions, or contributions, feel free to open an issue or submit a pull request on this repository.
+For any questions, suggestions, or contributions, feel free to open an issue or submit a pull request on this repository. You can also send a e-mail to: ugiat@ugiat.com
 
