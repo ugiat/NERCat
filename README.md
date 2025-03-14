@@ -91,8 +91,8 @@ The NERCat dataset consists of 9,242 sentences with 13,732 named entities across
 {
     "tokenized_text": ["La", "Universitat", "de", "Barcelona", "és", "una", "de", "les", "institucions", "educatives", "més", "importants", "de", "Catalunya", "."],
     "ner": [
-            [1, 3, "Organization"], # "Universitat de Barcelona"
-            [13, 13, "Location"] # "Catalunya"
+            [1, 3, "Organization"],
+            [13, 13, "Location"]
     ]
 }
 ```
