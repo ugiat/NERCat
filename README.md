@@ -91,14 +91,14 @@ The NERCat dataset consists of 9,242 sentences with 13,732 named entities across
 {
     "tokenized_text": ["La", "Universitat", "de", "Barcelona", "és", "una", "de", "les", "institucions", "educatives", "més", "importants", "de", "Catalunya", "."],
     "ner": [
-            [1, 3, "Organization"],
-            [13, 13, "Location"]
+            [1, 3, "Organization"], # "Universitat de Barcelona"
+            [13, 13, "Location"] # "Catalunya"
     ]
 }
 ```
 
 ## 📚 Citation
-This project is based on the approach presented in the paper "NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan". You can read the full paper [here](link-to-your-paper).
+This project is based on the approach presented in the paper "NERCat: Fine-Tuning for Enhanced Named Entity Recognition in Catalan". You can read the full paper [here](https://github.com/ugiat/NERCat/blob/main/Catalan_GLiNER_Paper.pdf).
 
 ```
 @misc{article_id,
@@ -106,7 +106,7 @@ This project is based on the approach presented in the paper "NERCat: Fine-Tunin
   author       = {Guillem Cadevall Ferreres, Marc Bardeli Gámez, Marc Serrano Sanz, Pol Gerdt Basuillas, Francesc Tarres Ruiz, Raul Quijada Ferrero},
   year         = {2025},
   archivePrefix = {arXiv},
-  url          = {URL_of_the_paper}
+  url          = {[URL_of_the_paper](https://github.com/ugiat/NERCat/blob/main/Catalan_GLiNER_Paper.pdf)}
 }
 ```
 
