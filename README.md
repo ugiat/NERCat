@@ -106,7 +106,7 @@ This project is based on the approach presented in the paper "NERCat: Fine-Tunin
   author       = {Guillem Cadevall Ferreres, Marc Bardeli Gámez, Marc Serrano Sanz, Pol Gerdt Basullas, Francesc Tarres Ruiz, Raul Quijada Ferrero},
   year         = {2025},
   archivePrefix = {arXiv},
-  url          = {(https://github.com/ugiat/NERCat/blob/main/Catalan_GLiNER_Paper.pdf)}
+  url          = {(https://arxiv.org/abs/2503.14173)}
 }
 ```
 
